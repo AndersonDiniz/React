@@ -1,8 +1,5 @@
 ## Aplicação de Publicação de Eventos
 Este projeto é uma aplicação de publicação de eventos desenvolvida no curso de React JS + Firebase + Bootstrap. 
-Se você quer criar esta aplicação deste do início e entende-lá, clique no link do curso e bons estudos!
-
-:link: **Link do curso:**  [clique aqui!](https://github.com/facebook/create-react-app).
 
 
 ### O que faz essa aplicacão?
